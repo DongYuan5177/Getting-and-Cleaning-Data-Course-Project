@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project
-Getting and Cleaning Data Course Project——week 4 project
+   week 4 project
 ==================================================================
 this repo is generated and edited based on: Human Activity Recognition Using Smartphones Dataset Version 1.0
 Link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
