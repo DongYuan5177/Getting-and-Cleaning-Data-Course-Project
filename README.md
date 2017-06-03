@@ -22,9 +22,7 @@ From each window, a vector of features was obtained by calculating variables fro
 For each record it is provided:
 ======================================
 
-- An identifier of the subject who carried out the experiment. rownames=subjects, from 1 to 30.
+- An identifier of the subject who carried out the experiment. colnames=subjects, from 1 to 30.
 - Its activity label. colname=activity, (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
-- Triaxial Angular velocity from the gyroscope. 
-- variables: names of time and frequency domain variables. 
-- mean: mean and standard deviation for each variable.
+- variables: mean and standard deviation for each measument. 
+- mean: mean value for each variable.
